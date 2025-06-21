@@ -1,0 +1,17 @@
+{
+    "Exercise": {
+        "name": "Exercise",
+        "description": "Go for a 30 min walk",
+        "history": ["2025-06-18", "2025-06-19"]
+    },
+    "Meditate": {
+        "name": "Meditate",
+        "description": "10 mins of mindfulness",
+        "history": ["2025-06-17", "2025-06-18", "2025-06-19"]
+    },
+    "Read": {
+        "name": "Read",
+        "description": "Read a chapter of a book",
+        "history": ["2025-06-16"]
+    }
+}
